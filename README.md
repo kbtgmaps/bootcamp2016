@@ -1,11 +1,17 @@
 
 # Welcome to MAPS 2016 Bootcamp
 
-For Audtion Enrollment:
-<a href="">Enrollment FOrm</a>
+### The Audition
+	MAPS Bootcamp 2016 Audition will be on Aprilt 9th, 2016
+	at IT Studio, 9th Floor, Mahitaladhibesra Building
 
-For more details about the bootcamp and audition:
-<a href="">Enrollment FOrm</a>
+	Audition enrollment is open until March 27th, 2016.
+
+	To enroll: [x](http://www.goo.gl/forms/rzJWvTF5le">http://www.goo.gl/forms/rzJWvTF5le)
+	
+
+For more details about the bootcamp and the audition:
+https://github.com/kbtgmaps/bootcamp2016/blob/master/MAPS%20Bootcamp%202016_100.pdf
 
 For information and questions, please contact:
 
