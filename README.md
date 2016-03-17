@@ -1,6 +1,6 @@
-# Welcome to MAPS 2016 Bootcamp
+# Welcome to MAPS Bootcamp 2016
 
-**MAPS Bootcamp 2016 Audition will be on Aprilt 9th, 2016** at IT Studio, 9th Floor, Mahitaladhibesra Building.
+**Audtion*** for MAPS Bootcamp 2016 will be on **Aprilt 9th, 2016** at IT Studio, 9th Floor, Mahitaladhibesra Building.
 
 #### Enrollment opens now until March 27th, 2016
 **To enroll**, click on the [Application Form](http://www.goo.gl/forms/rzJWvTF5le) here.
