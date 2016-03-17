@@ -2,9 +2,11 @@
 
 **To apply for the audition**, click on the [Application Form](http://www.goo.gl/forms/rzJWvTF5le) here.
 
+Application opens now until March 27th, 2016.
+
 **Audition** for MAPS Bootcamp 2016 will be on **April 9th, 2016** at IT Studio, 9th Floor, Mahitaladhibesra Building.
 
-#### Enrollment opens now until March 27th, 2016
+
 
 
 For details about the audition:
