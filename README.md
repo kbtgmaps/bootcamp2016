@@ -1,4 +1,4 @@
-# Welcome to MAPS Bootcamp 2016
+## Welcome to MAPS Bootcamp 2016
 
 **To apply for the audition**, click on the [Application Form](http://www.goo.gl/forms/rzJWvTF5le) here.
 
