@@ -4,10 +4,9 @@
 ### The Audition
 	MAPS Bootcamp 2016 Audition will be on Aprilt 9th, 2016
 	at IT Studio, 9th Floor, Mahitaladhibesra Building
-
 	Audition enrollment is open until March 27th, 2016.
 
-	To enroll: [x](http://www.goo.gl/forms/rzJWvTF5le">http://www.goo.gl/forms/rzJWvTF5le)
+To enroll: [Enrollment Form](http://www.goo.gl/forms/rzJWvTF5le">http://www.goo.gl/forms/rzJWvTF5le)
 	
 
 For more details about the bootcamp and the audition:
