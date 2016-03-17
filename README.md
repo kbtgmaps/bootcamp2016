@@ -1,15 +1,10 @@
-### Welcome to MAPS Bootcamp 2016
+#### Welcome to MAPS Bootcamp 2016
+Apply for the audition: [Application Form](http://www.goo.gl/forms/rzJWvTF5le)
 
-To **apply for the audition**, click on the [Application Form](http://www.goo.gl/forms/rzJWvTF5le) here.
+Details about the audition:
+[Detail Document (PDF)](https://github.com/kbtgmaps/bootcamp2016/blob/master/MAPS%20Bootcamp%202016_100.pdf)
 
-Application opens now until March 27th, 2016.
-
-The audition will be on **April 9th, 2016** at IT Studio, 9th Floor, Mahitaladhibesra Building.
-
-For details about the audition:
-https://github.com/kbtgmaps/bootcamp2016/blob/master/MAPS%20Bootcamp%202016_100.pdf
-
-For information and questions, please contact:
+Information and questions, please contact:
 
 	Dr. Janjao Mongkolnavin
 	+66 2218 5669
