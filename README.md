@@ -2,7 +2,7 @@
 Apply for the audition: [Application Form](http://www.goo.gl/forms/rzJWvTF5le)
 
 Details about the audition:
-[Detail Document (PDF)](https://github.com/kbtgmaps/bootcamp2016/blob/master/MAPS%20Bootcamp%202016_100.pdf)
+To receive the detail document, please send an email with subject “Request for MAPS Bootcamp 2016 Detail Document” to Dr. Janjao Mongkolnavin at janjao@cbs.chula.ac.th **from a CBS email account**.
 
 Information and questions, please contact:
 
